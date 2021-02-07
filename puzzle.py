@@ -1,5 +1,5 @@
 """
-GitHub Repository:
+GitHub Repository: https://github.com/Andrusyshyn-Orest/puzzle
 
 This module checks if board is ready for puzzle game.
 
